@@ -27,8 +27,16 @@ ul{
 
     text-align: center;
 }   
-a{
+
+
+.linkhome{
     text-decoration: none;
     color: black;
+
+}
+.linkhome:hover{
+    
+    font-size:15px;
+
 }
 
