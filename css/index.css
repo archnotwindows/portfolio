@@ -19,7 +19,7 @@
 
 #hello2{
 
-    text-align: right;
+    float: right;
     padding-left: 200p;
     padding-right: 300px;
 }
