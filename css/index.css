@@ -12,16 +12,13 @@
 #hello{
 
    float: left;
-    padding-left: 200px;
-    padding-right: 400px;
    
 }
 
 #hello2{
 
     float: right;
-    padding-left: 200p;
-    padding-right: 300px;
+   
 }
 
 
