@@ -11,15 +11,12 @@
 
 #hello{
 
-   float: left;
+    margin-left: 60px;
+   
    
 }
 
-#hello2{
 
-    float: right;
-   
-}
 
 
 
