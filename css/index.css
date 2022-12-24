@@ -34,7 +34,7 @@ ul{
     text-decoration: none;
     color: orange;
     border-style: dotted;
-    margin-left: 30%;
+    margin: 5px;
     padding: 50px;
     
 }
@@ -44,7 +44,7 @@ ul{
     text-decoration: none;
     color: orange;
     border-style: dotted;
-    margin-left: 10%;
+    margin: 15px;
     padding: 50px;
     
 }
