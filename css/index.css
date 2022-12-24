@@ -19,7 +19,7 @@ ul{
 
 .linkhome{
     text-decoration: none;
-    color: black;
+    color: rgb(78, 141, 192);
     padding-right: 20px;   
 
 }
@@ -29,10 +29,23 @@ ul{
 
 }
 
-.github{
+#github{
 
     text-decoration: none;
     color: orange;
+    border-style: dotted;
+    margin-left: 30%;
+    padding: 50px;
+    
+}
+
+#github2{
+
+    text-decoration: none;
+    color: orange;
+    border-style: dotted;
+    margin-left: 10%;
+    padding: 50px;
     
 }
 
