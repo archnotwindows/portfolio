@@ -29,7 +29,7 @@ ul{
 
 }
 
-#github{
+.github{
 
     text-decoration: none;
     color: orange;
@@ -39,13 +39,4 @@ ul{
     
 }
 
-#github2{
-
-    text-decoration: none;
-    color: orange;
-    border-style: dotted;
-    margin: 15px;
-    padding: 50px;
-    
-}
 
