@@ -1,33 +1,22 @@
 #main-title{
 
     text-align: center;
+    color: var(--secondary-color);
+
 }
 
-#maintitle{
+.maintitle{
 
     text-align: center;
-   
+}
+
+h2{
+
+    color: var(--secondary-color);
 }
 
 
 
-ul{
-
-    text-align: center;
-}   
-
-
-.linkhome{
-    text-decoration: none;
-    color: rgb(78, 141, 192);
-    padding-right: 20px;   
-
-}
-.linkhome:hover{
-    
-    font-size:15px;
-
-}
 
 .github{
 
@@ -39,4 +28,39 @@ ul{
   
 }
 
+.passions{
 
+    text-decoration: none;
+    color: #2596be;
+    border-style:dashed;
+    margin: 20px;
+    padding: 50px;
+
+}
+
+#icon{
+    cursor: pointer;
+}
+
+
+
+:root{
+
+    --primary-color: white;
+    --secondary-color: #212121;
+    
+
+}
+
+.dark-theme{
+
+    --primary-color: #212121;
+    --secondary-color: white;
+
+}
+
+
+body{
+
+    background: var(--primary-color);
+}
