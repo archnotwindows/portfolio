@@ -38,6 +38,24 @@ h2{
 
 }
 
+#youtube{
+
+    text-decoration: none;
+    color: red;
+    border-style:dashed;
+    margin: 20px;
+    padding: 50px;
+}
+
+#instagram{
+
+    text-decoration: none;
+    color: #cd486b;
+    border-style:dashed;
+    margin: 20px;
+    padding: 50px;
+}
+
 #icon{
     cursor: pointer;
 }
