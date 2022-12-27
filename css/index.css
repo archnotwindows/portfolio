@@ -1,13 +1,14 @@
 #main-title{
 
     text-align: center;
-    color: var(--secondary-color);
+    color: #2596be;
 
 }
 
 .maintitle{
 
     text-align: center;
+    color: var(--secondary-color);
 }
 
 h2{
