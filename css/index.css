@@ -16,7 +16,14 @@ h2{
     color: var(--secondary-color);
 }
 
+#CV{
 
+    background-color: #2596be;
+    border-radius: 20%;
+    padding: 8px;
+    color: var(--secondary-color);
+    
+}
 
 
 .github{
