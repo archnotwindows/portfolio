@@ -19,6 +19,8 @@ h2{
 #CV{
 
     background-color: #2596be;
+
+    text-decoration: none;
     border-radius: 20%;
     padding: 8px;
     color: var(--secondary-color);
